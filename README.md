@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vito510&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Vito510&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vito510&theme=dark" />
+</a>
+
 <!--
 **Vito510/Vito510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

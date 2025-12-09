@@ -1,5 +1,5 @@
-Hi im Vito
-![brain](https://github.com/user-attachments/assets/1f88cd0b-5caa-4e26-b0be-92ce5013d2d7)
+Hi I'm Vito
+<img src="https://github.com/user-attachments/assets/1f88cd0b-5caa-4e26-b0be-92ce5013d2d7" width="20%"/>
 
 <!--
 **Vito510/Vito510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
